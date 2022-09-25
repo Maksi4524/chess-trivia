@@ -1,0 +1,35 @@
+/******************************************
+/* CSS
+/*******************************************/
+
+/* Box Model Hack */
+*{
+    box-sizing: border-box;
+  }
+  
+  /******************************************
+  /* LAYOUT
+  /*******************************************/
+
+
+  .section-questions{
+    width: 22%;
+    margin: auto;
+    font-size: 18px;
+  }
+
+  .streetChess{
+    display: block;
+    margin: auto;
+    height: 400px;
+  }
+
+  h1,h3{
+    text-align: center;
+  }
+  .answerKey{
+    display: block;
+    text-align: center;
+  }
+
+
